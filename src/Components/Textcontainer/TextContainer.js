@@ -8,19 +8,20 @@ const TextContainer = ({ users }) => (
 	<div className='textContainer'>
 		<div>
 			<h1>
-				Realtime Chat Application{" "}
+				Welcome to the Private Chat Application{" "}
 				<span role='img' aria-label='emoji'>
 					💬
 				</span>
 			</h1>
 			<h2>
-				Created with React, Express, Node and Socket.IO{" "}
+				Made with quarantined React, Express, Node and Socket.IO{" "}
 				<span role='img' aria-label='emoji'>
 					❤️
 				</span>
 			</h2>
 			<h2>
-				Try it out right now!{" "}
+				Try it out right now! Tell them your name and join to
+				private chat{" "}
 				<span role='img' aria-label='emoji'>
 					⬅️
 				</span>
